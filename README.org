@@ -1,12 +1,35 @@
 *Meetings*
 
+Meetings is a basic meeting note logger that outputs an org file. 
+
 * NB                                                               :noexport:
 
 ** TODO                                                           
-*** TODO project planning
 
-*** TODO testing
+*** Project planning
 
-*** TODO documentation
+    - [ ] establish version
+    - [ ] define org output
+    - [ ] define cli
+      - [ ] define interaction model
+      - [ ] define application input
 
-*** TODO license
+**** Design
+
+***** sketch
+
+****** usage
+
+       
+
+*** Testing
+
+*** Documentation
+
+*** License
+
+    - [ ] add MIT license
+
+*** Hosting
+
+*** Version Control
